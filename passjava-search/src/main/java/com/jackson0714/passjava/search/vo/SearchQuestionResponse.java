@@ -1,6 +1,7 @@
 package com.jackson0714.passjava.search.vo;
 
-import com.jackson0714.common.to.es.QuestionEsModel;
+
+import com.jackson0714.passjava.common.to.es.QuestionEsModel;
 import lombok.Data;
 
 import java.util.List;

@@ -1,6 +1,6 @@
 package com.jackson0714.passjava.search.service;
 
-import com.jackson0714.common.to.es.QuestionEsModel;
+import com.jackson0714.passjava.common.to.es.QuestionEsModel;
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Component;
 

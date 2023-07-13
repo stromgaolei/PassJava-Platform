@@ -1,8 +1,9 @@
 package com.jackson0714.passjava.search.controller;
 
-import com.jackson0714.common.exception.BizCodeEnum;
-import com.jackson0714.common.to.es.QuestionEsModel;
-import com.jackson0714.common.utils.R;
+
+import com.jackson0714.passjava.common.exception.BizCodeEnum;
+import com.jackson0714.passjava.common.to.es.QuestionEsModel;
+import com.jackson0714.passjava.common.utils.R;
 import com.jackson0714.passjava.search.service.IQuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -1,7 +1,7 @@
 package com.jackson0714.passjava.search.service.impl;
 
 import com.alibaba.fastjson.JSON;
-import com.jackson0714.common.to.es.QuestionEsModel;
+import com.jackson0714.passjava.common.to.es.QuestionEsModel;
 import com.jackson0714.passjava.search.config.EsConstant;
 import com.jackson0714.passjava.search.service.IQuestionService;
 import org.elasticsearch.action.index.IndexRequest;
